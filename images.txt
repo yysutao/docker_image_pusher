@@ -4,8 +4,7 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 xiaoyaliu/alist:latest
-ddns-go
-trilium-cn:latest
-alist-tvbox:latest
-iptv-sources:latest
+ddns-go：latest
+xiaoya:latest
+tvbox:latest
 xhofe/alist:latest
