@@ -5,9 +5,7 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 xiaoyaliu/alist:latest
 ddns-go
-docker.io/nriver/trilium-cn:latest
-docker.io/haroldli/alist-tvbox:latest
-docker.io/iptv-sources:latest
-docker.io/HerbertHe / iptv-sources:latest
-docker.io/xhofe/alist:latest
+trilium-cn:latest
+alist-tvbox:latest
+iptv-sources:latest
 xhofe/alist:latest
